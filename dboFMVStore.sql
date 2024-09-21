@@ -1,5 +1,5 @@
 -- ======================================================
--- Creacion de la Base de datos
+-- Modi de la Base de datos
 -- ======================================================
 DROP DATABASE IF EXISTS dboFMVstore
 GO
